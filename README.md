@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
-
 ### Hi there 👋
 
 [comment]: <> (- 🔭 I’m currently working on ...)
@@ -13,4 +11,6 @@
 - 😄 Pronouns: XGS
 - ⚡ Fun fact: I am.
 
-<img align="bottom" src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
+<img align="left" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
+
+<img align="right" src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
