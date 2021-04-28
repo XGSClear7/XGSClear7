@@ -8,6 +8,8 @@ print("Hi there 👋")
 
 [comment]: <> (- 🤔 I’m looking for help with ...)
 
+<img align="right" src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
+
 - 🌱 I’m currently learning **_Python web_** and **_Python crawler_**.
 - 🏠 I'm live in **Qingdao**.
 - 💼 I'm **looking for work**. Please **contact me** if you are interested.
@@ -18,7 +20,5 @@ print("Hi there 👋")
 - 😄 Pronouns: **XGS**
 - ⚡ Fun fact: _I am._
 
-<div style="height:300px">
-<img style="margin-top: 50%; transform: translateY(-50%)" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
-<img src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
-</div>
+
+<img style="align:left" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
