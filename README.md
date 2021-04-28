@@ -1,16 +1,16 @@
+<img align="right" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
+
 ### Hi there 👋
 
-<!--
-**XGSClear7/XGSClear7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[comment]: <> (- 🔭 I’m currently working on ...)
 
-Here are some ideas to get you started:
+[comment]: <> (- 👯 I’m looking to collaborate on ...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[comment]: <> (- 🤔 I’m looking for help with ...)
+- 🌱 I’m currently learning Python web and Python crawler.
+- 💬 Ask me about Python.
+- 📫 How to reach me: QQ:921593279
+- 😄 Pronouns: XGS
+- ⚡ Fun fact: I am.
+
+<img align="bottom" src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
