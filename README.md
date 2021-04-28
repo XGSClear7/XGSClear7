@@ -20,6 +20,5 @@ print("Hi there 👋")
 
 <div style="height:300px">
 <img style="margin-top: 50%; transform: translateY(-50%)" src="https://github-readme-stats-wine-delta-32.vercel.app/api?username=XGSClear7&count_private=true&show_icons=true&theme=graywhite">
-
-<img align="right" src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
+<img src="https://github-readme-stats-wine-delta-32.vercel.app/api/top-langs?username=XGSClear7">
 </div>
