@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=XGSClear7" alt="XGSClear7" /></a> </p>
+
 ```python
 print("Hi there 👋")
 ```
