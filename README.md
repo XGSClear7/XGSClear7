@@ -1,5 +1,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=XGSClear7" alt="XGSClear7" /></a> </p>
-<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/88250/hits.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/XGSClear7/hits"><img src="https://hits.b3log.org/XGSClear7/hits.svg"></a>
 
 ```python
 print("Hi there 👋")
